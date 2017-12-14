@@ -2,7 +2,7 @@
 
 Current Build Status: ![Build Status](https://travis-ci.org/bitcoin-dot-org/bitcoin.org.svg?branch=master)
 
-Live site: [Bitcoin.org](http://doc.superbtc.org/en/developer-reference.html#block-chain)
+Live site: [SuperBitcoin.org](http://doc.superbtc.org/en/developer-reference.html#block-chain)
 
 Report problems or help improve the site by opening a [new issue](https://github.com/Zzitao/bitcoin.org/issues/new) or [pull request](https://github.com/Zzitao/bitcoin.org/compare).
 
